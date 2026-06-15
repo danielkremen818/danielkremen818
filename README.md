@@ -42,17 +42,9 @@ Keeps a single `ultracode` dynamic workflow from silently running every subagent
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<details open>
-  <summary><h2>🔥 GitHub Profile Stats</h2></summary>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel Kremen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielkremen818&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1017&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel Kremen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkremen818&langs_count=8&layout=compact&hide_border=true&bg_color=0d1017&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&hide=Jupyter%20Notebook" height="180px"/></a>
-
-</details>
-
 ## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kremen-3a2582222)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielkremen818@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielkremen818)
 
