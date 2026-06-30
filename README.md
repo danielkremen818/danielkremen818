@@ -14,7 +14,7 @@
     <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=danielkremen818&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 ### [ultracost](https://github.com/danielkremen818/ultracost) — per-stage model routing for Claude Code
 
@@ -23,6 +23,13 @@ Keeps a single `ultracode` dynamic workflow from silently running every subagent
 [![npm](https://img.shields.io/npm/v/ultracost.svg?style=flat-square&color=8b5cf6)](https://www.npmjs.com/package/ultracost)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/danielkremen818/ultracost/badge?style=flat-square)](https://scorecard.dev/viewer/?uri=github.com/danielkremen818/ultracost)
 [![stars](https://img.shields.io/github/stars/danielkremen818/ultracost?style=flat-square&color=22d3ee)](https://github.com/danielkremen818/ultracost)
+
+### [claude-prompt](https://github.com/danielkremen818/claude-prompt) — optimize your ask, then run it
+
+A Claude Code slash command (`/claude-prompt:p` or `/p`) that rewrites your request into a structured, specific prompt — then executes it. Adds reasoning frameworks, success criteria, and meta-instructions; preserves quoted strings and code verbatim. `--dry` for optimize-only. No code · no dependencies · MIT.
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/danielkremen818/claude-prompt/badge?style=flat-square)](https://scorecard.dev/viewer/?uri=github.com/danielkremen818/claude-prompt)
+[![stars](https://img.shields.io/github/stars/danielkremen818/claude-prompt?style=flat-square&color=22d3ee)](https://github.com/danielkremen818/claude-prompt)
 
 ## 🛠️ Tech I work with
 
