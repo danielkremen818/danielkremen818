@@ -44,16 +44,17 @@ A Claude Code slash command (`/claude-prompt:p` or `/p`) that rewrites your requ
 ## 📊 By the numbers
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielkremen818&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=22d3ee&text_color=9198a1&include_all_commits=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkremen818&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=9198a1&langs_count=8" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=danielkremen818&hide_border=true&background=00000000&ring=8b5cf6&fire=22d3ee&currStreakLabel=8b5cf6&sideLabels=9198a1&dates=9198a1&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
+## 🛠️ Tech I work with
+
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=danielkremen818&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+  <img alt="Kubernetes, Azure, Docker, Terraform, Node.js, Python, TypeScript, Bash, Grafana, Cloudflare, GitHub Actions" src="https://skillicons.dev/icons?i=kubernetes,azure,docker,terraform,nodejs,python,ts,bash,grafana,cloudflare,githubactions&theme=dark" />
 </p>
 
 <details>
-<summary><b>🛠️ Tech I work with</b></summary>
+<summary><b>Same list, with labels</b></summary>
 <br>
 
 **Platform & infra**
