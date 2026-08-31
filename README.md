@@ -1,10 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Daniel%20Kremen%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&text2=DevOps%20Architect%20%C2%B7%20AI%20Dev%20Tools&width=820&height=120)](https://github.com/Akshay090/svg-banners)
+<p align="center">
+  <img src="assets/banner.svg" alt="Daniel Kremen — DevOps Architect · AI Dev Tools" width="820" height="120" />
+</p>
 
 ### Hi there, I'm Daniel 👋
 
 ⚙️ DevOps Architect building scalable cloud platforms and AI-driven developer tools. I automate everything, keep infrastructure boring and reliable, and ship open-source tooling for the AI coding stack.
 
-<br>
 <p align="center">
   <a href="https://github.com/danielkremen818?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/danielkremen818?color=8b5cf6&style=for-the-badge&labelColor=6d28d9&logo=star&logoColor=white"/></a>
@@ -12,6 +13,15 @@
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/danielkremen818?color=22d3ee&labelColor=0e7490&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/danielkremen818">
     <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=danielkremen818&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS"/></a>
+</p>
+
+<!-- Generated twice a day by .github/workflows/snake.yml, published to the `output` branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielkremen818/danielkremen818/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielkremen818/danielkremen818/output/github-snake.svg" />
+    <img alt="contribution snake eating my commit graph" src="https://raw.githubusercontent.com/danielkremen818/danielkremen818/output/github-snake.svg" />
+  </picture>
 </p>
 
 ## 🚀 Featured projects
@@ -31,7 +41,22 @@ A Claude Code slash command (`/claude-prompt:p` or `/p`) that rewrites your requ
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/danielkremen818/claude-prompt/badge?style=flat-square)](https://scorecard.dev/viewer/?uri=github.com/danielkremen818/claude-prompt)
 [![stars](https://img.shields.io/github/stars/danielkremen818/claude-prompt?style=flat-square&color=22d3ee)](https://github.com/danielkremen818/claude-prompt)
 
-## 🛠️ Tech I work with
+## 📊 By the numbers
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielkremen818&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=22d3ee&text_color=9198a1&include_all_commits=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkremen818&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=9198a1&langs_count=8" />
+</p>
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=danielkremen818&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+</p>
+
+<details>
+<summary><b>🛠️ Tech I work with</b></summary>
+<br>
+
+**Platform & infra**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -39,7 +64,9 @@ A Claude Code slash command (`/claude-prompt:p` or `/p`) that rewrites your requ
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-<br>
+
+**Languages & tooling**
+
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,6 +75,8 @@ A Claude Code slash command (`/claude-prompt:p` or `/p`) that rewrites your requ
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</details>
 
 ## 📫 Connect
 
@@ -60,8 +89,8 @@ Optional: auto-populate a Medium/dev.to blog list with the
 "gautamkrishnar/blog-post-workflow" GitHub Action, then uncomment:
 
 ## 📝 Latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
+-->
 
 <!-- profile README -->
